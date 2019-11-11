@@ -1,0 +1,2 @@
+include ':WebviewDemo', ':HttpURLConnectionDemo', ':XMLParsingDemo'
+rootProject.name='FifthApp'
